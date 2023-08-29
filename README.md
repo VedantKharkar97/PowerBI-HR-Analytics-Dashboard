@@ -4,7 +4,7 @@ A HR Analytics Dashboard for the Organisation so that they can have insight on t
 ● Primary KPI - Total Number of Employees and Total Attrition of employees for the Organisation.<br />
 ● Primary KPIs – Average Age and Average Salary of Employees working in the organisation.<br />
 ● Secondary KPI's - Total Attrition with respect to Education and Salary.<br />
-● Secondary KPI's - Total Attrition with respect to Age and Average years spent in the organisation.
+● Secondary KPI's - Total Attrition with respect to Age and Average years spent in the organisation.<br />
 ● Role of Job Role in Attrition<br />
 ● Job Role Satisfaction of employees based on the Attrition<br />
 ● Detailed Attrition Information based on the Department.<br />
